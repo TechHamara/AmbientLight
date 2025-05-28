@@ -13,6 +13,27 @@ Ambient Light Effect extension that creates a glowing effect around screen edges
 📅 **Updated On:** [date=2025-05-28 timezone="Asia/Calcutta"]
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
 
+## Blocks
+
+![EnableAmbientLight_Method](https://github.com/user-attachments/assets/14fa3627-65e1-4c38-b136-47e8137c448c)
+![DisableAmbientLight_Method](https://github.com/user-attachments/assets/ed03aa58-996f-4e84-be8a-3c187582d25f)
+![StopRainbowEffect_Method](https://github.com/user-attachments/assets/d25555c6-d694-4a3e-a9a7-b072a2d262e8)
+![StopPulseEffect_Method](https://github.com/user-attachments/assets/53ba4c40-b8bd-4186-b7b2-953bc226d525)
+![StartRainbowEffect_Method](https://github.com/user-attachments/assets/c1fcb765-80da-4484-b3a6-bd3999e23d01)
+![StartPulseEffect_Method](https://github.com/user-attachments/assets/43da6e28-748b-4d13-84c5-6ff2a6c91065)
+
+-----
+
+![RainbowSpeed_Set_Property](https://github.com/user-attachments/assets/5cb1ccbe-6d16-4270-8b1d-261751f6f866)
+![RainbowSpeed_Get_Property](https://github.com/user-attachments/assets/67491d83-f756-40df-b7ca-7fa64ed0d8d1)
+![LightColor_Set_Property](https://github.com/user-attachments/assets/8e864d3a-1941-443a-a5b5-7cfe7f3f9329)
+![LightColor_Get_Property](https://github.com/user-attachments/assets/bfda9434-0ed6-46b9-bda3-8ff3b99e92a0)
+![Intensity_Set_Property](https://github.com/user-attachments/assets/519b2993-69ed-43f2-8e93-866c8edafc0a)
+![Intensity_Get_Property](https://github.com/user-attachments/assets/b8bbfea8-2b5e-4285-91a0-7799046aac37)
+![Thickness_Set_Property](https://github.com/user-attachments/assets/f03957f5-6831-408b-a1bd-b439387d0192)
+![Thickness_Get_Property](https://github.com/user-attachments/assets/6182c216-1014-4555-b3c1-7dfc6e431f5a)
+
+
 ## <kbd>Methods:</kbd>
 **AmbientLight** has total 6 methods.
 
