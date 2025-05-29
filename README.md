@@ -13,6 +13,13 @@ Ambient Light Effect extension that creates a glowing effect around screen edges
 📅 **Updated On:** [date=2025-05-28 timezone="Asia/Calcutta"]
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
 
+## Demo
+
+![IMG_20250529_161749.jpg](https://github.com/user-attachments/assets/9d37e316-44e1-4083-bb4d-c57ea183062f)
+
+![e7a6dd4b-d851-4e74-a0e6-853fab1aef96.gif](https://github.com/user-attachments/assets/7c727b68-eea7-491b-b38c-88498df26bc6)
+
+
 ## Blocks
 
 ![EnableAmbientLight_Method](https://github.com/user-attachments/assets/14fa3627-65e1-4c38-b136-47e8137c448c)
