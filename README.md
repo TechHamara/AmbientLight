@@ -43,7 +43,31 @@ Ambient Light Effect extension that creates a glowing effect around screen edges
 
 
 ## <kbd>Methods:</kbd>
-**AmbientLight** has total 6 methods.
+**AmbientLight** has total 14 methods.
+
+### ShowTopEdgeOnly
+Shows only the top edge
+
+### ShowBottomEdgeOnly
+Shows only the bottom edge
+
+### ShowLeftEdgeOnly
+Shows only the left edge
+
+### ShowRightEdgeOnly
+Shows only the right edge
+
+### ShowHorizontalEdgesOnly
+Shows only the horizontal edges (top and bottom)
+
+### ShowVerticalEdgesOnly
+Shows only the vertical edges (left and right)
+
+### ShowAllEdges
+Shows all edges
+
+### HideAllEdges
+Hides all edges
 
 ### StartRainbowEffect
 Starts a rainbow color effect that cycles through different colors
@@ -103,6 +127,13 @@ Sets the color of the ambient light effect
 Sets the thickness of the ambient light effect (1-100)
 
 * Return type: `number`
+
+### Intensity
+Sets the intensity of the ambient light effect (1-100)
+
+* Return type: `number`
+
+
 
 ### Intensity
 Sets the intensity of the ambient light effect (1-100)
