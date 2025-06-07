@@ -14,7 +14,11 @@ Ambient Light Effect extension that creates a glowing effect around screen edges
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
 <br>
 
->**New Update** 06/06/2025
+>**New Update** 
+
+> **Version:** 1.1
+
+>**Date** 06/06/2025
 
 >ShowTopEdgeOnly
 Shows only the top edge
