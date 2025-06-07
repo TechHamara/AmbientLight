@@ -14,30 +14,46 @@ Ambient Light Effect extension that creates a glowing effect around screen edges
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
 <br>
 
-> Update 06/06/2025
-> ### ShowTopEdgeOnly
+>**New Update** 06/06/2025
+
+>ShowTopEdgeOnly
 Shows only the top edge
 
-### ShowBottomEdgeOnly
+>ShowBottomEdgeOnly
 Shows only the bottom edge
 
-### ShowLeftEdgeOnly
+>ShowLeftEdgeOnly
 Shows only the left edge
 
-### ShowRightEdgeOnly
+> ShowRightEdgeOnly
 Shows only the right edge
 
-### ShowHorizontalEdgesOnly
+>ShowHorizontalEdgesOnly
 Shows only the horizontal edges (top and bottom)
 
-### ShowVerticalEdgesOnly
+>ShowVerticalEdgesOnly
 Shows only the vertical edges (left and right)
 
-### ShowAllEdges
+> ShowAllEdges
 Shows all edges
 
-### HideAllEdges
+> HideAllEdges
 Hides all edges
+
+-----
+
+>![Screenshot_2025-06-07-05-50-49-454_appinventor.ai_Techhamara91.AmbientLight.jpg](https://github.com/user-attachments/assets/ec1dfe20-238b-48b6-8997-4c46900bfb6a)
+
+>![Screenshot_2025-06-07-05-51-13-979_appinventor.ai_Techhamara91.AmbientLight.jpg](https://github.com/user-attachments/assets/7e1dfc65-6415-4242-86d9-168feac77829)
+
+>![Screenshot_2025-06-07-05-50-55-999_appinventor.ai_Techhamara91.AmbientLight.jpg](https://github.com/user-attachments/assets/f3b06de1-da2f-490b-9c08-33a66f3da0c5)
+
+>![Screenshot_2025-06-07-05-51-03-239_appinventor.ai_Techhamara91.AmbientLight.jpg](https://github.com/user-attachments/assets/0f22d56f-bf89-407c-9b64-5502b8b2a25f)
+
+>![Screenshot_2025-06-07-05-50-59-790_appinventor.ai_Techhamara91.AmbientLight.jpg](https://github.com/user-attachments/assets/37539ed3-1183-4dc0-9a11-508228f7227f)
+
+>![Screenshot_2025-06-07-05-51-09-903_appinventor.ai_Techhamara91.AmbientLight.jpg](https://github.com/user-attachments/assets/d3bd73f6-41a6-4adf-9f31-d61c38576e44)
+
 
 ## Demo
 
